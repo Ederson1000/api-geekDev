@@ -1,7 +1,7 @@
 {
   "name": "api-geek",
   "version": "0.0.1",
-  "description": "Api geekdev criação de soluções",
+  "description": "Api geekdev criação e soluções",
   "main": "src/server.js",
   "scripts": {
     "test": "jest",
